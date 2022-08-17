@@ -1,0 +1,12 @@
+@startuml
+:User: --> (001)
+:User: --> (002)
+:User: --> (003)
+:User: --> (004)
+
+"[UC 004] VISUALIZAR FEED" as (001)
+"[UC 024] VISUALIZAR PERFIL" as (002)
+"[UC 005] VISUALIZAR MEU PERFIL" as (003)
+"[UC 010] APRESENTAR BANNERS PUBLICITARIOS " as (004)
+
+@enduml

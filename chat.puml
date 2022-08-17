@@ -1,0 +1,10 @@
+@startuml
+:User: --> (001)
+:User: --> (002)
+
+
+"[UC 022] VISUALIZAR MINHAS MENSAGENS " as (001)
+"[UC 023]  ENVIAR MENSAGENS" as (002)
+
+
+@enduml

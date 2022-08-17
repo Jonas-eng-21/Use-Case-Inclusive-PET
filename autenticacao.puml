@@ -1,0 +1,10 @@
+@startuml
+:User: --> (001)
+:User: --> (002)
+:User: --> (003)
+
+"[UC 001] REGISTRAR USUÁRIO" as (001)
+"[UC 002] FAZER LOGIN" as (002)
+"[UC 003] ALTERAR INFORMAÇÕES DO USUÁRIO " as (003)
+
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+:User: --> (006)
+:User: --> (007)
+:User: --> (008)
+
+"[UC 001] DENUNCIAR UM POST" as (006)
+"[UC 007] VISUALIZAR COMENTÁRIOS " as (007)
+"[UC 008] COMENTAR EM UM POST " as (008)
+
+@enduml

@@ -1,0 +1,20 @@
+@startuml
+:User: --> (014)
+:User: --> (015)
+:User: --> (016)
+:User: --> (017)
+:User: --> (018)
+:User: --> (019)
+:User: --> (020)
+:User: --> (021)
+
+"[UC 014] VISUALIZAR LISTA COM MEUS PETS" as (014)
+"[UC 015] VISUALIZAR INFORMAÇÕES DOS MEUS PETS" as (015)
+"[UC 016] VISUALIZAR CARTÃO DE VACINA " as (016)
+"[UC 017] ADICIONAR NOVAS VACINAS " as (017)
+"[UC 018] ADICIONAR NOVO PET " as (018)
+"[UC 019] ADICIONAR ANIMAIS PARA PROCRIAÇÃO " as (019)
+"[UC 020] ADICIONAR ANIMAIS PARA ADOÇÃO " as (020)
+"[UC 021] ADICIONAR ANIMAIS PERDIDOS " as (021)
+
+@enduml
