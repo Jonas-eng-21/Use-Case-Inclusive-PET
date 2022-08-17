@@ -1,0 +1,8 @@
+@startuml
+:User: --> (001)
+:User: --> (002)
+
+"[UC 001] DESCRIÇÃO GERAL REQUISITO NÃO FUNCIONAL" as (001)
+"[UC 002] DESCRIÇÃO GERAL REQUISITO NÃO FUNCIONAL" as (002)
+
+@enduml
